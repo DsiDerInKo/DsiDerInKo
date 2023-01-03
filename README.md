@@ -27,10 +27,10 @@ I am Nikita Bushuev, student from ITMO university (want to become Back-End Devel
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
 
 ---
-![github](https://github-readme-stats.vercel.app/api/top-langs/?DsiDerInKo={DsiDerInKo})
+![github](https://github-readme-stats.vercel.app/api/top-langs/?username={username})
 ![github]()
 ![github]()
-![github](https://github-profile-trophy.vercel.app/?DsiDerInKo={DsiDerInKo})
+![github](https://github-profile-trophy.vercel.app/?username={username})
 
 <!--
 **DsiDerInKo/DsiDerInKo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
