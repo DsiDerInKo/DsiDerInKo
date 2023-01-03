@@ -1,4 +1,4 @@
-### Hi there 👋
+### こんにちは！ 👋
 
 # **About me**
 I am Nikita Bushuev, student from ITMO university (want to become Back-End Developer).
