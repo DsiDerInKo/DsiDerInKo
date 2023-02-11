@@ -7,8 +7,9 @@ I am Nikita Bushuev, student from ITMO university (want to become Back-End Devel
 ## **Languages**
 
 ![github](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![github](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![github](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white)
-![github](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![github]()
 
 
 ## **Frameworks**
@@ -24,6 +25,8 @@ I am Nikita Bushuev, student from ITMO university (want to become Back-End Devel
 ## **Favorite IDEs**
 
 ![github](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![github](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![github](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 
 ## **Links**
