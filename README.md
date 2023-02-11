@@ -9,7 +9,6 @@ I am Nikita Bushuev, student from ITMO university (want to become Back-End Devel
 ![github](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![github](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![github](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white)
-![github]()
 
 
 ## **Frameworks**
