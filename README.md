@@ -6,7 +6,7 @@ I am Nikita Bushuev, student from ITMO university (want to become Back-End Devel
 - 🔭 I’m currently working on OOP repo
 - 🌱 I’m currently learning Java and C++
 - 💬 Ask me about ...
-- 📫 How to reach me: ![github](https://t.me/GaussKust) (Telegram)
+- 📫 How to reach me: [...](https://t.me/GaussKust) (Telegram)
 
 ## **Languages**
 
