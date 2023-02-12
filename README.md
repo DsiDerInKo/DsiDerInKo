@@ -38,10 +38,6 @@ I am Nikita Bushuev, student from ITMO university (want to become Back-End Devel
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
-## **Links**
-
-
-
 
 <!--
 **DsiDerInKo/DsiDerInKo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
