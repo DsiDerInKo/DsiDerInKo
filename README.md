@@ -6,7 +6,7 @@ I am Nikita Bushuev, student from ITMO university (want to become Back-End Devel
 - 🔭 I’m currently working on OOP repo
 - 🌱 I’m currently learning Java and C++
 - 💬 Ask me about ...
-- 📫 How to reach me: [GaussKust](https://t.me/GaussKust) (Telegram)
+- 📫 How to reach me: ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)[GaussKust](https://t.me/GaussKust) 
 
 ## **Languages**
 
@@ -41,7 +41,7 @@ I am Nikita Bushuev, student from ITMO university (want to become Back-End Devel
 
 ## **Links**
 
-[Joseph Louis Lagrange#3311](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
+
 
 
 <!--
