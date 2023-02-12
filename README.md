@@ -3,14 +3,17 @@
 # **About me**
 I am Nikita Bushuev, student from ITMO university (want to become Back-End Developer).
 
+- 🔭 I’m currently working on OOP repo
+- 🌱 I’m currently learning Java and C++
+- 💬 Ask me about ...
+- 📫 How to reach me: ![github](https://t.me/GaussKust) (Telegram)
 
 ## **Languages**
 
 ![github](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![github](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![github](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white)
-![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
-
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
 ## **Frameworks**
 
@@ -29,9 +32,12 @@ I am Nikita Bushuev, student from ITMO university (want to become Back-End Devel
 ![github](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 
-## **Links**
+## **Using additions**
 
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
+![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 
 
